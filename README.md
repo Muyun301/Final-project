@@ -3,5 +3,5 @@ MEJ
 
 Team Members:
 - Muyun Tian 
-- Eric Dong
+- Eric Dong - erd175@pitt.edu
 - Jack Napolitan - jan225@pitt.edu
