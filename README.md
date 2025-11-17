@@ -2,8 +2,8 @@
 ### Group: Project Group 7
 
 ## Team Members:
-- Muyun Tian
-- Eric Dong
+- Muyun Tian (mut28@pitt.edu)
+- Eric Dong (erd175@pitt.edu)
 - Jack Napolitan (jan225@pitt.edu)
 
 ## Info
